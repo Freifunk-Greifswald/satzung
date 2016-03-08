@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.15 (TeX Live 2015/dev/Debian) (preloaded format=pdflatex 2015.5.2)  8 DEC 2015 18:15
+This is pdfTeX, Version 3.14159265-2.6-1.40.15 (TeX Live 2015/dev/Debian) (preloaded format=pdflatex 2016.2.15)  8 MAR 2016 18:46
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -399,7 +399,7 @@ Stored max is 1
 [5] [6] (./Satzung.aux) ) 
 Here is how much of TeX's memory you used:
  2554 strings out of 494968
- 36984 string characters out of 6178965
+ 36984 string characters out of 6178964
  141035 words of memory out of 5000000
  5796 multiletter control sequences out of 15000+600000
  10429 words of font info for 26 fonts, out of 8000000 for 9000
@@ -411,7 +411,7 @@ pk> </home/lrnzo/.texmf-var/fonts/pk/ljfour/jknappen/ec/ecsx1200.600pk> </home/
 lrnzo/.texmf-var/fonts/pk/ljfour/jknappen/ec/ecrm1440.600pk> </home/lrnzo/.texm
 f-var/fonts/pk/ljfour/jknappen/ec/ecsx2074.600pk></usr/share/texlive/texmf-dist
 /fonts/type1/public/amsfonts/cm/cmsy10.pfb>
-Output written on Satzung.pdf (6 pages, 69449 bytes).
+Output written on Satzung.pdf (6 pages, 69463 bytes).
 PDF statistics:
  214 PDF objects out of 1000 (max. 8388607)
  37 compressed objects within 1 object stream
